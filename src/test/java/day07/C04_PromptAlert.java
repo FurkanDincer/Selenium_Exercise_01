@@ -3,7 +3,7 @@ package day07;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
-import utililties.TestBase;
+import utilities.TestBase;
 
 public class C04_PromptAlert extends TestBase {
 

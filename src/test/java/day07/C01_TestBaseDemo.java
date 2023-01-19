@@ -2,7 +2,7 @@ package day07;
 
 import org.junit.Assert;
 import org.junit.Test;
-import utililties.TestBase;
+import utilities.TestBase;
 
 public class C01_TestBaseDemo extends TestBase {
 
